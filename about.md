@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Majoring in computer engineering with a minor in psychology, I have a huge interest in the conjuction of artificial intelligence, mental health and even brain mapping.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[akhileshsnair00@gmail.com](mailto:email@domain.com)
