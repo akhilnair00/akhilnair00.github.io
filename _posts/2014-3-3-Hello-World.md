@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my website!
 ---
+This was made using a fork of Barry Clark's jekyll-now repo. I plan to periodically update this with whatever comes to mind in relation to my interests. Also I'd like to branch off from what Clark has created, adding my own flair!
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Feel free to click the About button up top to learn more about me!
